@@ -14,7 +14,7 @@ def line(katz_deli)
   end
 end
 
-def take_a_number
+def take_a_number(katz_deli, name)
   Build a method that a new customer will use when entering the deli.
   The take_a_number method should accept two arguments, the array for the
   current line of people (katz_deli), and a string containing the name of
